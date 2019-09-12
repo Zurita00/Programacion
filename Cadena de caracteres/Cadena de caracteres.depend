@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1568294094 source:c:\users\alumno\documents\codeblocks\cadena de caracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bliblioteca.h"
+
+1568294104 c:\users\alumno\documents\codeblocks\cadena de caracteres\bliblioteca.h
+
+1568294014 source:c:\users\alumno\documents\codeblocks\cadena de caracteres\b.c
+	<stdio.h>
+	<stdlib.h>
+	"bliblioteca.h"
+	<string.h>
+
