@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="b.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bliblioteca.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
