@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1568386842 source:c:\users\alumno\documents\codeblocks\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Alumno.h"
+
+1568386229 c:\users\alumno\documents\codeblocks\estructuras\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1568386704 source:c:\users\alumno\documents\codeblocks\estructuras\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Alumno.h"
+
+1568386842 source:c:\users\alumno\desktop\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Alumno.h"
+
+1568386229 c:\users\alumno\desktop\estructuras\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
