@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1568904852 source:c:\users\alumno\documents\codeblocks\estructuras2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1568904116 source:c:\users\alumno\documents\codeblocks\estructuras2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1568904883 c:\users\alumno\documents\codeblocks\estructuras2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
