@@ -27,3 +27,17 @@
 	<stdlib.h>
 	<string.h>
 
+1568991393 source:c:\users\alumno\desktop\programacion-master\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Alumno.h"
+
+1568991838 c:\users\alumno\desktop\programacion-master\estructuras\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1568990483 source:c:\users\alumno\desktop\programacion-master\estructuras\alumno.c
+	"Alumno.h"
+
